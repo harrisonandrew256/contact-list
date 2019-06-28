@@ -1,0 +1,32 @@
+body {
+   text-align: center;
+   width:80%;
+   height: auto;
+   margin: auto;
+   background:#808080;
+   padding: 5%;
+}
+#container{
+   background:#FFA500;
+   padding: 3%;
+}
+#inputs{
+   background:#008000 ;
+   padding: 3%;
+}
+#search{
+   background: #A52A2A;
+   padding: 3%;
+}
+#lists{
+   background: #FF7F50;
+   padding: 3%;
+}
+#header{
+   background: #800000;
+   color: #FFFFFF;
+}
+h2{
+   background: #FF0000;
+   color:    #FFFFFF;
+}
